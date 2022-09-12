@@ -1,9 +1,10 @@
 h1 {
-  font-family: Arial;
+  font-family: 'Cinzel', serif;
 }
 
 h4 {
   margin-bottom: 0;
+  font-family: 'Cinzel', serif;
 }
 
 ul, ol {
@@ -14,4 +15,7 @@ ul, ol {
   font-family: Arial;
   font-size: 9px;
   font-style: italic;
+}
+.makeBig {
+  font-size: 20px
 }
